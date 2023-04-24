@@ -30,7 +30,7 @@ export default function Home() {
         <div className={styles.description}>
           <SocialButton
               provider="google"
-              appId="YOUR_APP_ID"
+              appId="623936552479-5cple32e29sv781c8oaivq2f5efi5t0f.apps.googleusercontent.com"
               onLoginSuccess={handleSocialLogin}
               onLoginFailure={handleSocialLoginFailure}
             >
